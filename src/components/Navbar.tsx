@@ -4,8 +4,9 @@ import { IoApps } from "react-icons/io5";
 
 const menus = [
   { id: "hero", name: "Home" },
-  { id: "ecv", name: "Easiest CV" },
-  { id: "timecodi", name: "TimeCodi" },
+  { id: "ecv", name: "Project 1: Easiest CV" },
+  { id: "timecodi", name: "Project 2: TimeCodi" },
+  { id: "edu", name: "Education" },
 ];
 
 export default function Navbar() {
